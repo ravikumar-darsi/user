@@ -1,5 +1,5 @@
 As a DevOps team, we have Nodejs CICD ready.... , Let's say a new project User module is getting started. How can
 you setup CICD fir it ?
 
-Step 1. If a new project is started, they should have a repo exist in nexus repository or any other repository.
+Step 1. If a new project is started, they should have a repo exist in nexus repository or any other repository
 Step 2.
